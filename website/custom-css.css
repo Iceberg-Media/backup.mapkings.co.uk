@@ -1,0 +1,30 @@
+body{
+	overflow-x: hidden !important;
+}
+.custom-heading{
+	color: #D00905 !important;
+}
+ul {
+    list-style: none;
+    padding-left: 0;
+    margin-left: 0;
+}
+
+ul li {
+    list-style: none;
+}
+a {
+  text-decoration: none !important;
+}
+.page-header .entry-title { 
+  display: none !important; 
+}
+.page-header {
+  text-align: center;
+  padding: 20px 0;
+  background: #1a1a2e;
+}
+.page-header h1 {
+  color: #ffffff !important;
+  font-size: 32px !important;
+}
