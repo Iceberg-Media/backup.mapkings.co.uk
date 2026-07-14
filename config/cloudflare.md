@@ -30,3 +30,8 @@ Saved in vault: ~/.vault/cloudflare.env
 - CNAME: www → mapkings.co.uk (proxied)
 - MX: mailserver.livemail.co.uk (priority 10)
 - TXT: GSC verification, Bing verification, SPF
+
+## Email Routing
+- remapkings@mapkings.co.uk → mapkingperformance@gmail.com
+- catch-all *@mapkings.co.uk → mapkingperformance@gmail.com
+- Rule ID: 748600bb0d9e4152bcb4db0771687aba
