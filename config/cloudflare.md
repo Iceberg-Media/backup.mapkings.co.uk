@@ -14,3 +14,19 @@
 
 ## API Token
 Saved in vault: ~/.vault/cloudflare.env
+
+## Optimization Settings (Applied)
+- Auto Minify: CSS, HTML, JS enabled
+- Brotli: enabled
+- Always Use HTTPS: enabled
+- Auto HTTPS Rewrites: enabled
+- Browser Cache TTL: 1 month (2592000)
+- Rocket Loader: enabled
+- Cache Level: aggressive
+- WP-Optimize: deactivated (Cloudflare handles caching)
+
+## DNS Records
+- A: mapkings.co.uk → 217.160.0.186 (proxied)
+- CNAME: www → mapkings.co.uk (proxied)
+- MX: mailserver.livemail.co.uk (priority 10)
+- TXT: GSC verification, Bing verification, SPF
