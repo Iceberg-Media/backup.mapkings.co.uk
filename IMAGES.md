@@ -7,6 +7,6 @@
 - `website/images/team-2.jpg` — Team photo
 - `website/images/team-3.jpg` — Team photo
 - `website/images/service-1.jpg` — Service photo
-- `website/images/service-2.jpg` — Service photo
+- `website/images/mechanic.jpg` — Service photo
 - `website/images/service-3.jpg` — Service photo
-- `website/images/ecu.jpg` — ECU photo
+- `website/images/ecu-remap.jpg` — ECU photo
