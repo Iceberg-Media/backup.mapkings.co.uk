@@ -1,27 +1,18 @@
-# MapKings.co.uk
+# Backup mapkings.co.uk
 
-Backup repository for MapKings Performance website.
+Automated backup repository for **MapKings Performance**.
 
-## Client Details
-- **Business**: MapKings Performance — mobile ECU remapping/tuning in Buckinghamshire
-- **Contact**: Anis (mapkingperformance@gmail.com, 07306 558428)
-- **Website**: https://mapkings.co.uk/
-- **Package**: SEO Silver (£290/mo)
+## Business Details
 
-## Repository Contents
-- `reports/` — Report worker code and templates
-- `docs/` — GBP posts, call notes, documentation
-- `css/` — Custom CSS files
-- `configs/` — Configuration files
+| | |
+|---|---|
+| **Name** | MapKings Performance |
+| **Address** | Buckinghamshire, United Kingdom |
+| **Phone** | +44 7306 558428 |
+| **Website** | [mapkings.co.uk](https://mapkings.co.uk/) |
 
-## Access Credentials
-Stored in vault: `~/.vault/CLIENT-ACCESS.md`
+## About
 
-## Key URLs
-- **Report**: https://reports.icebergmedia.co.uk/mapking/
-- **Booking**: https://mapkings.co.uk/book-ecu-remap-buckinghamshire/
-- **Blog**: https://mapkings.co.uk/updates/
-- **Calculator**: https://mapkings.co.uk/vehicle-gains-calculator/
+This repository contains a public backup of [MapKings Performance](https://mapkings.co.uk/), preserved for archival and reference purposes. All content and images are property of their respective owners.
 
-## GBP Review Link
-https://search.google.com/local/writereview?placeid=ChIJnSRr-KdxP4sRE0B2VoHgec4
+**MapKings Performance** — [mapkings.co.uk](https://mapkings.co.uk/)
