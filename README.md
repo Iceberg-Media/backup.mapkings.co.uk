@@ -9,15 +9,8 @@
 | **Phone** | +44 7306 558428 |
 | **Website** | [mapkings.co.uk](https://mapkings.co.uk/) |
 
-## Pages Backed Up
+## Images
 
-- Homepage
-- Areas Covered
-- Benefits
-- Book ECU Remap
-- Services
-- Tuning Stages
-- Updates
-- Vehicle Gains Calculator
+8 photos available in `website/images/`. See [IMAGES.md](IMAGES.md) for full manifest or [gallery.html](gallery.html) for visual browser.
 
 **MapKings Performance** — [mapkings.co.uk](https://mapkings.co.uk/)
