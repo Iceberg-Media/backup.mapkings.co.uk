@@ -1,0 +1,189 @@
+[
+  {
+    "id": 1,
+    "count": 11,
+    "description": "Your blog category",
+    "link": "https://mapkings.co.uk/category/blog/",
+    "name": "Blog",
+    "slug": "blog",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.2 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>Blog Archives - Map Kings Performance</title>\n<!-- Admin only notice: this page does not show a meta description because it does not have one, either write it for this page specifically or go into the [Yoast SEO - Settings] menu and set up a template. -->\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://mapkings.co.uk/category/blog/\" />\n<meta property=\"og:locale\" content=\"en_GB\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Blog Archives - Map Kings Performance\" />\n<meta property=\"og:description\" content=\"Your blog category\" />\n<meta property=\"og:url\" content=\"https://mapkings.co.uk/category/blog/\" />\n<meta property=\"og:site_name\" content=\"Map Kings Performance\" />\n<meta property=\"og:image\" content=\"https://mapkings.co.uk/wp-content/uploads/2026/07/Re-MapKings-Performance.jpg\" />\n\t<meta property=\"og:image:width\" content=\"1254\" />\n\t<meta property=\"og:image:height\" content=\"1254\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https:\\/\\/mapkings.co.uk\\/category\\/blog\\/\",\"url\":\"https:\\/\\/mapkings.co.uk\\/category\\/blog\\/\",\"name\":\"Blog Archives - Map Kings Performance\",\"isPartOf\":{\"@id\":\"https:\\/\\/mapkings.co.uk\\/#website\"},\"breadcrumb\":{\"@id\":\"https:\\/\\/mapkings.co.uk\\/category\\/blog\\/#breadcrumb\"},\"inLanguage\":\"en-GB\"},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/mapkings.co.uk\\/category\\/blog\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/mapkings.co.uk\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Blog\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/mapkings.co.uk\\/#website\",\"url\":\"https:\\/\\/mapkings.co.uk\\/\",\"name\":\"MapKings Performance\",\"description\":\"UNLEASH THE BEAST WITHIN YOUR ENGINE\",\"publisher\":{\"@id\":\"https:\\/\\/mapkings.co.uk\\/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/mapkings.co.uk\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-GB\"},{\"@type\":[\"Organization\",\"Place\",\"AutomotiveBusiness\"],\"@id\":\"https:\\/\\/mapkings.co.uk\\/#organization\",\"name\":\"MapKings Performance\",\"url\":\"https:\\/\\/mapkings.co.uk\\/\",\"logo\":{\"@id\":\"https:\\/\\/mapkings.co.uk\\/category\\/blog\\/#local-main-organization-logo\"},\"image\":{\"@id\":\"https:\\/\\/mapkings.co.uk\\/category\\/blog\\/#local-main-organization-logo\"},\"sameAs\":[\"https:\\/\\/www.facebook.com\\/Mapkingperformance\"],\"telephone\":[\"07306 558428\"],\"openingHoursSpecification\":{\"@type\":\"OpeningHoursSpecification\",\"dayOfWeek\":[\"Monday\",\"Tuesday\",\"Wednesday\",\"Thursday\",\"Friday\",\"Saturday\",\"Sunday\"],\"opens\":\"00:00\",\"closes\":\"23:59\"},\"email\":\"remapkings@mapkings.co.uk\",\"areaServed\":\"Buckinghamshire\",\"priceRange\":\"$$\",\"currenciesAccepted\":\"GBP\"},{\"@type\":\"ImageObject\",\"inLanguage\":\"en-GB\",\"@id\":\"https:\\/\\/mapkings.co.uk\\/category\\/blog\\/#local-main-organization-logo\",\"url\":\"https:\\/\\/mapkings.co.uk\\/wp-content\\/uploads\\/2026\\/06\\/Map-logo.png\",\"contentUrl\":\"https:\\/\\/mapkings.co.uk\\/wp-content\\/uploads\\/2026\\/06\\/Map-logo.png\",\"width\":743,\"height\":336,\"caption\":\"MapKings Performance\"}]}</script>\n<meta name=\"geo.placename\" content=\"Aylesbury\" />\n<meta name=\"geo.region\" content=\"United Kingdom (UK)\" />\n<!-- / Yoast SEO plugin. -->",
+    "yoast_head_json": {
+      "title": "Blog Archives - Map Kings Performance",
+      "robots": {
+        "index": "index",
+        "follow": "follow",
+        "max-snippet": "max-snippet:-1",
+        "max-image-preview": "max-image-preview:large",
+        "max-video-preview": "max-video-preview:-1"
+      },
+      "canonical": "https://mapkings.co.uk/category/blog/",
+      "og_locale": "en_GB",
+      "og_type": "article",
+      "og_title": "Blog Archives - Map Kings Performance",
+      "og_description": "Your blog category",
+      "og_url": "https://mapkings.co.uk/category/blog/",
+      "og_site_name": "Map Kings Performance",
+      "og_image": [
+        {
+          "width": 1254,
+          "height": 1254,
+          "url": "https://mapkings.co.uk/wp-content/uploads/2026/07/Re-MapKings-Performance.jpg",
+          "type": "image/jpeg"
+        }
+      ],
+      "twitter_card": "summary_large_image",
+      "schema": {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "CollectionPage",
+            "@id": "https://mapkings.co.uk/category/blog/",
+            "url": "https://mapkings.co.uk/category/blog/",
+            "name": "Blog Archives - Map Kings Performance",
+            "isPartOf": {
+              "@id": "https://mapkings.co.uk/#website"
+            },
+            "breadcrumb": {
+              "@id": "https://mapkings.co.uk/category/blog/#breadcrumb"
+            },
+            "inLanguage": "en-GB"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://mapkings.co.uk/category/blog/#breadcrumb",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://mapkings.co.uk/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Blog"
+              }
+            ]
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://mapkings.co.uk/#website",
+            "url": "https://mapkings.co.uk/",
+            "name": "MapKings Performance",
+            "description": "UNLEASH THE BEAST WITHIN YOUR ENGINE",
+            "publisher": {
+              "@id": "https://mapkings.co.uk/#organization"
+            },
+            "potentialAction": [
+              {
+                "@type": "SearchAction",
+                "target": {
+                  "@type": "EntryPoint",
+                  "urlTemplate": "https://mapkings.co.uk/?s={search_term_string}"
+                },
+                "query-input": {
+                  "@type": "PropertyValueSpecification",
+                  "valueRequired": true,
+                  "valueName": "search_term_string"
+                }
+              }
+            ],
+            "inLanguage": "en-GB"
+          },
+          {
+            "@type": [
+              "Organization",
+              "Place",
+              "AutomotiveBusiness"
+            ],
+            "@id": "https://mapkings.co.uk/#organization",
+            "name": "MapKings Performance",
+            "url": "https://mapkings.co.uk/",
+            "logo": {
+              "@id": "https://mapkings.co.uk/category/blog/#local-main-organization-logo"
+            },
+            "image": {
+              "@id": "https://mapkings.co.uk/category/blog/#local-main-organization-logo"
+            },
+            "sameAs": [
+              "https://www.facebook.com/Mapkingperformance"
+            ],
+            "telephone": [
+              "07306 558428"
+            ],
+            "openingHoursSpecification": {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday",
+                "Friday",
+                "Saturday",
+                "Sunday"
+              ],
+              "opens": "00:00",
+              "closes": "23:59"
+            },
+            "email": "remapkings@mapkings.co.uk",
+            "areaServed": "Buckinghamshire",
+            "priceRange": "$$",
+            "currenciesAccepted": "GBP"
+          },
+          {
+            "@type": "ImageObject",
+            "inLanguage": "en-GB",
+            "@id": "https://mapkings.co.uk/category/blog/#local-main-organization-logo",
+            "url": "https://mapkings.co.uk/wp-content/uploads/2026/06/Map-logo.png",
+            "contentUrl": "https://mapkings.co.uk/wp-content/uploads/2026/06/Map-logo.png",
+            "width": 743,
+            "height": 336,
+            "caption": "MapKings Performance"
+          }
+        ]
+      },
+      "geo.placename": "Aylesbury",
+      "geo.region": "United Kingdom (UK)"
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "https://mapkings.co.uk/wp-json/wp/v2/categories/1",
+          "targetHints": {
+            "allow": [
+              "GET",
+              "POST",
+              "PUT",
+              "PATCH"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://mapkings.co.uk/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://mapkings.co.uk/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://mapkings.co.uk/wp-json/wp/v2/posts?categories=1"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+]
