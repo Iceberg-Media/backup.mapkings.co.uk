@@ -37,8 +37,6 @@
 - **WP Version**: Latest (as of Aug 2026)
 - **Theme**: Hello Elementor
 - **Plugins**: Elementor, Yoast SEO, Elementskit, MetForm, Webmcp
-- **Admin URL**: https://mapkings.co.uk/mapkings-auth (custom login)
-- **User**: mapkings (administrator)
 
 ## Changes Since Last Backup (Jul 17 → Aug 16)
 
